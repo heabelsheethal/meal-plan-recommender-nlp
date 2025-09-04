@@ -135,12 +135,4 @@ meal-plan-recommender-nlp/
 
 ---
 
-## Acknowledgements
-Special thanks to my colleagues who contributed ideas and provided guidance:
-- Amy Yeh
-- Ayu Vidiantiwi
-- Celine Widjaja
-- Ria Chhabra
-
----
 
